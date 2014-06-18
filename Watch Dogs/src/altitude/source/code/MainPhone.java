@@ -72,7 +72,7 @@ public class MainPhone implements Listener{
 		case GLASS: //Do stuff when the look at the glass (Camera) Cursor
 			 public void onPlayerInteractBlock(PlayerInteractEvent e) {
 			 	Player player = e.getPlayer();
-			 	Block targetblock = player.getTargetbloc
+			 	Block targetblock = player.getTargetblock
 			 	
 			 	//Every thing I have tried doesn't work with the tp code
 			 }
